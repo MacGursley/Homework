@@ -1,0 +1,7 @@
+C:\Users\macgu\source\repos\BaseClassDemo\BaseClassDemo\bin\Debug\BaseClassDemo.exe.config
+C:\Users\macgu\source\repos\BaseClassDemo\BaseClassDemo\bin\Debug\BaseClassDemo.exe
+C:\Users\macgu\source\repos\BaseClassDemo\BaseClassDemo\bin\Debug\BaseClassDemo.pdb
+C:\Users\macgu\source\repos\BaseClassDemo\BaseClassDemo\obj\Debug\BaseClassDemo.csprojAssemblyReference.cache
+C:\Users\macgu\source\repos\BaseClassDemo\BaseClassDemo\obj\Debug\BaseClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\macgu\source\repos\BaseClassDemo\BaseClassDemo\obj\Debug\BaseClassDemo.exe
+C:\Users\macgu\source\repos\BaseClassDemo\BaseClassDemo\obj\Debug\BaseClassDemo.pdb
